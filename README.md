@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ACTGovernment/HRIMS%20Program/_apis/build/status/rdotgsys.Apppipelines?branchName=master)](https://dev.azure.com/ACTGovernment/HRIMS%20Program/_build/latest?definitionId=1375&branchName=master)
 
 # Contributing
 
